@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">XCalliberTest</string>
+
+    <string name="mob_no">Mobile No.</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_in">SIGN&#032;IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="or">OR</string>
+    <string name="cont">Continue With</string>
+    <string name="for_pass">Please contact on this number 9975628849 for any query or support</string>
+
+    <string name="facebook_app_id">2364370147197313</string>
+    <string name="fb_login_protocol_scheme">fb2364370147197313</string>
+
+</resources>

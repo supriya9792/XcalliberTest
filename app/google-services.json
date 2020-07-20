@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443740169794",
+    "firebase_url": "https://xcalibertest-8d81a.firebaseio.com",
+    "project_id": "xcalibertest-8d81a",
+    "storage_bucket": "xcalibertest-8d81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443740169794:android:6c6238214633f76ea4efdb",
+        "android_client_info": {
+          "package_name": "com.example.xcaliberstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443740169794-51rfpsa4kpt20o3on24pdmdc0gfp6l6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJfnMMAIC5EBfTWSrOeaKt4FIIIt9mZBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443740169794-51rfpsa4kpt20o3on24pdmdc0gfp6l6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
